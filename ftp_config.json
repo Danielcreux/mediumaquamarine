@@ -4,7 +4,7 @@
     "username": "a2242100",
     "password": "Daniel08-07",
     "folders": [
-        "/var/www/html/databases",
-        "/var/www/html/lightsalmon"
+        "/var/www/html/lightsalmon",
+        "/var/www/html/databases"
     ]
 }
